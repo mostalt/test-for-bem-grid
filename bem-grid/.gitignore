@@ -12,11 +12,6 @@ npm-debug.log
 libs
 .libs-*
 
-*.bundles/*/*
-!*.bundles/.bem/*
-!*.bundles/*/blocks
-!*.bundles/*/*.bemjson.js
-*.bundles/*/_*.bemjson.js
 
 /coverage
 /coverage.json
