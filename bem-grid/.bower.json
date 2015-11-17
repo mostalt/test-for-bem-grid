@@ -1,0 +1,40 @@
+{
+  "name": "bem-grid",
+  "version": "2.1.0",
+  "description": "Flexbox grid on BEM methodology",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bem-incubator/bem-grid.git"
+  },
+  "keywords": [
+    "bem",
+    "stylus",
+    "flexbox",
+    "grid"
+  ],
+  "authors": [
+    "Anton Winogradov <winogradovaa@gmail.com>"
+  ],
+  "ignore": [
+    "node_modules",
+    "libs"
+  ],
+  "dependencies": {
+    "bem-core": "~2.6.0"
+  },
+  "devDependencies": {
+    "bem-pr": "~0.10.0"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/verybigman/bem-grid",
+  "_release": "2.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.1.0",
+    "commit": "5bdc13c2bd957ab0ebf0d36a2bc75b61eb6ceaf1"
+  },
+  "_source": "git://github.com/verybigman/bem-grid.git",
+  "_target": "~2.1.0",
+  "_originalSource": "bem-grid",
+  "_direct": true
+}
